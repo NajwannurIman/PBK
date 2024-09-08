@@ -192,7 +192,6 @@ Simulasi PhET hanya melibatkan penglihatan dan, dalam beberapa kasus, pendengara
 5. **Tidak Semua Siswa Nyaman dengan Teknologi**  
 Walaupun PhET relatif mudah digunakan, tidak semua siswa merasa nyaman menggunakan teknologi, terutama mereka yang belum terbiasa dengan penggunaan perangkat digital dalam pembelajaran. Beberapa siswa mungkin mengalami kesulitan dalam mengoperasikan simulasi, terutama jika perangkat mereka lambat atau mereka kurang memahami cara kerja alat digital.
 
-Berikut adalah poin nomor 7 yang membahas kesimpulan:
 
 ### 7. **Kesimpulan**
 
